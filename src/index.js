@@ -4,10 +4,10 @@ import './index.css';
 // import App from './App';
 // import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.css';
-import Counter from './components/counter';
+import Counters from './components/counters';
 
 // const  C  = <h1>SDASDASDASDs</h1>
-ReactDOM.render(<Counter />,document.getElementById("root"));
+ReactDOM.render(<Counters />,document.getElementById("root"));
 
 // ReactDOM.render(
 //   <React.StrictMode>
